@@ -10,7 +10,7 @@ class GameWindow < Gosu::Window
   end
 
   def update
-	  #lorem ipsum
+    #lorem ipsum jest homo#
   end
 
   def draw

@@ -7,6 +7,7 @@ class GameWindow < Gosu::Window
   end
 
   def update
+    #linijke nizej juz homo# 
   end
 
   def draw

@@ -7,6 +7,7 @@ class GameWindow < Gosu::Window
   end
 
   def update
+	  #lorem ipsum
   end
 
   def draw

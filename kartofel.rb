@@ -1,5 +1,8 @@
 require 'gosu'
 
+require './kod/gracz'
+require './kod/wspolrzedne'
+
 class GameWindow < Gosu::Window
   def initialize
     super 640, 480
